@@ -62,7 +62,7 @@
         <p>
             This project demonstrates how machine learning can be applied to text data to predict sentiment. 
             Logistic Regression combined with CountVectorizer provides a simple yet effective approach for sentiment analysis tasks. 
-            The methodology can be extended to larger datasets or more advanced models like TF-IDF or neural networks for improved performance.
+            The methodology can be extended to larger datasets or more advanced models like TF-IDF or neural networks for improved performance. This model demonstrates a solid performance with an accuracy of 81%              on a small dataset, and results could improve further with more data.
         </p>
     </section>
     <section>
