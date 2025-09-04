@@ -3,7 +3,6 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Review Sentiment Prediction README</title>
 </head>
 <body>
     <h1>Review Sentiment Prediction using Count Vectorization and Logistic Regression</h1>
@@ -71,12 +70,7 @@
         <ul>
             <li><a href="https://scikit-learn.org/stable/modules/feature_extraction.html#text-feature-extraction">Scikit-learn: Text feature extraction</a></li>
             <li><a href="https://www.nltk.org/">NLTK: Natural Language Toolkit</a></li>
-            <li><a href="https://realpython.com/python-nltk-sentiment-analysis/">Real Python: Sentiment Analysis with NLTK</a></li>
         </ul>
-    </section>
-    <section>
-        <h2>License</h2>
-        <p>MIT License</p>
     </section>
 </body>
 </html>
